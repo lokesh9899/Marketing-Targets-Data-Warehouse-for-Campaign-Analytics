@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Final_project_etl", "Final_project_etl.dtproj", "{47BF72F1-2F88-4FB5-904D-55567B1DA0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BF72F1-2F88-4FB5-904D-55567B1DA0EA}.Azure|Default.ActiveCfg = Azure
+		{47BF72F1-2F88-4FB5-904D-55567B1DA0EA}.Azure|Default.Build.0 = Azure
+		{47BF72F1-2F88-4FB5-904D-55567B1DA0EA}.Development|Default.ActiveCfg = Development
+		{47BF72F1-2F88-4FB5-904D-55567B1DA0EA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8ABA8E-98A5-437C-8B7A-244B51868E67}
+	EndGlobalSection
+EndGlobal
